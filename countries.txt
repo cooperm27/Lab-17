@@ -1,0 +1,4 @@
+India~~~1339000000~~~true
+The United States~~~325700000~~~false
+China~~~1386000000~~~false
+Rwanda~~~122100000~~~true
